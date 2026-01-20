@@ -12,7 +12,7 @@ Excel-based analysis of global Electric Vehicle (EV) market trends using **IEA G
 ---
 
 ## 1. Global EV Market Growth (2010–2023)
-![Global EV Market Trend](01_global_market_trend.png)
+![Global EV Market Trend](01 Global Market Size Trend Pivot.png)
 
 **Insight:**  
 Global EV sales increased from ~0.03M vehicles in 2010 to ~34.6M in 2023, representing a ~74% CAGR.  
