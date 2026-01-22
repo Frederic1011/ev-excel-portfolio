@@ -91,14 +91,14 @@ How to read: a normalization-friendly maturity proxy. A rising ratio supports â€
 ---
 
 ### Exhibit 7 â€” China deep dive: Adoption acceleration (YoY change in EV sales share)
-**File:** '07_Acceleration_Inflection_China_Pivot.png'
+**File:** ` 07_Acceleration_Inflection_China_Pivot.png` 
 
 How to read: YoY change (percentage points) isolates **acceleration** rather than the level. The annotated window highlights the most visible acceleration period.  
 ![Exhibit 7](07_Acceleration_Inflection_China_Pivot.png)
 
 ---
 
-## Method (kept intentionally short)
+## Method
 - Built PivotTables with consistent filters (`Historical`, `Cars`) and metric-specific slices (stock, sales share, sales, BEV/PHEV).
 - Used simple calculated columns where needed:
   - CAGR on the global stock view (Exhibit 1)
