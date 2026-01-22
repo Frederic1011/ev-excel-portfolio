@@ -73,14 +73,14 @@ What to look for: BEV remains dominant while PHEV stays structurally meaningful;
 ### Exhibit 5 — China deep dive: EV sales (flow) vs EV stock (installed base)
 **File:** `05_Stock:Sales_China_Pivot.png`  
 How to read: sales is annual flow; stock is cumulative. The level gap is expected; the insight is the **post-2020 steepening in stock** alongside larger annual volumes.  
-![Exhibit 5](05_Stock_Sales_China_Pivot.png)
+![Exhibit 5](05_Stock/Sales_China_Pivot.png)
 
 ---
 
 ### Exhibit 6 — China deep dive: Stock / Sales ratio (maturity signal)
 **File:** `06_Stock:Sales_Ratio_China_Pivot.png`  
 How to read: a normalization-friendly maturity proxy. A rising ratio supports “installed base compounding,” while peaks/normalization reflect rapid scaling and absorption of larger annual volumes.  
-![Exhibit 6](06_Stock_Sales_Ratio_China_Pivot.png)
+![Exhibit 6](06_Stock/Sales_Ratio_China_Pivot.png)
 
 ---
 
