@@ -40,7 +40,7 @@ This README summarizes a single, consistent dataset view using Excel pivots and 
 
 ---
 
-## Exhibits (recommended reading order)
+## Exhibits 
 
 ### Exhibit 1 — Global market size trend (installed base) + CAGR
 **File:** `01_Global_Market_Size_Trend_Pivot.png`  
