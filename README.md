@@ -43,7 +43,8 @@ This README summarizes a single, consistent dataset view using Excel pivots and 
 ## Exhibits 
 
 ### Exhibit 1 — Global market size trend (installed base) + CAGR (compound annual growth rate)
-**File:** `01_Global_Market_Size_Trend_Pivot.png`  
+**File:** `01_Global_Market_Size_Trend_Pivot.png` 
+
 What to look for: slope change post-2019; compounding effect dominates the curve.  
 ![Exhibit 1](01_Global_Market_Size_Trend_Pivot.png)
 
@@ -51,6 +52,7 @@ What to look for: slope change post-2019; compounding effect dominates the curve
 
 ### Exhibit 2 — EV sales share trend: China vs Europe vs North America
 **File:** `02_EV_Sales_Share_Trend_Pivot.png`  
+
 What to look for: cross-region adoption trajectories; divergence after ~2020.  
 ![Exhibit 2](02_EV_Sales_Share_Trend_Pivot.png)
 
@@ -58,6 +60,7 @@ What to look for: cross-region adoption trajectories; divergence after ~2020.
 
 ### Exhibit 3 — Regional contribution: increase in EV sales (2010 → 2023)
 **File:** `03_Regional_Contribution_Pivot.png`  
+
 What to look for: absolute growth contribution by region; China is the largest contributor.  
 ![Exhibit 3](03_Regional_Contribution_Pivot.png)
 
@@ -65,13 +68,15 @@ What to look for: absolute growth contribution by region; China is the largest c
 
 ### Exhibit 4 — Powertrain mix shift (BEV vs PHEV)
 **File:** `04_Power_Type_Changes_Pivot.png`
+
 What to look for: BEV remains dominant while PHEV stays structurally meaningful; mix evolves as the market scales.  
 ![Exhibit 4](./04_Power_Type_Changes_Pivot.png)
 
 ---
 
 ### Exhibit 5 — China deep dive: EV sales (flow) vs EV stock (installed base)
-**File:** `05_Stock:Sales_China_Pivot.png`  
+**File:** `05_Stock:Sales_China_Pivot.png` 
+
 How to read: sales is annual flow; stock is cumulative. The level gap is expected; the insight is the **post-2020 steepening in stock** alongside larger annual volumes.  
 ![Exhibit 5](05_Stock/Sales_China_Pivot.png)
 
@@ -79,6 +84,7 @@ How to read: sales is annual flow; stock is cumulative. The level gap is expecte
 
 ### Exhibit 6 — China deep dive: Stock / Sales ratio (maturity signal)
 **File:** `06_Stock:Sales_Ratio_China_Pivot.png` 
+
 How to read: a normalization-friendly maturity proxy. A rising ratio supports “installed base compounding,” while peaks/normalization reflect rapid scaling and absorption of larger annual volumes.  
 ![Exhibit 6](06_Stock/Sales_Ratio_China_Pivot.png)
 
@@ -86,6 +92,7 @@ How to read: a normalization-friendly maturity proxy. A rising ratio supports �
 
 ### Exhibit 7 — China deep dive: Adoption acceleration (YoY change in EV sales share)
 **File:** '07_Acceleration_Inflection_China_Pivot.png'
+
 How to read: YoY change (percentage points) isolates **acceleration** rather than the level. The annotated window highlights the most visible acceleration period.  
 ![Exhibit 7](07_Acceleration_Inflection_China_Pivot.png)
 
