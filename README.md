@@ -64,7 +64,7 @@ What to look for: absolute growth contribution by region; China is the largest c
 ---
 
 ### Exhibit 4 — Powertrain mix shift (BEV vs PHEV)
-**File:** '04_Power_Type_Changes_Pivot.png'
+**File:** `04_Power_Type_Changes_Pivot.png`
 What to look for: BEV remains dominant while PHEV stays structurally meaningful; mix evolves as the market scales.  
 ![Exhibit 4](04_Power_Type_Changes_Pivot.png)
 
