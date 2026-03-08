@@ -46,7 +46,7 @@ This README summarizes a single, consistent dataset view using Excel pivots and 
 **File:** `01_Global_Market_Size_Trend_Pivot.png` 
 
 What to look for: slope change post-2019; compounding effect dominates the curve.  
-![Exhibit 1](01_Global_Market_Size_Trend_Pivot.png)
+![Exhibit 1](./outputs/01_Global_Market_Size_Trend_Pivot.png)
 
 ---
 
