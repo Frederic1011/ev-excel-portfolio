@@ -54,7 +54,7 @@ What to look for: slope change post-2019; compounding effect dominates the curve
 **File:** `02_EV_Sales_Share_Trend_Pivot.png`  
 
 What to look for: cross-region adoption trajectories; divergence after ~2020.  
-![Exhibit 2](02_EV_Sales_Share_Trend_Pivot.png)
+![Exhibit 2](./outputs/02_EV_Sales_Share_Trend_Pivot.png)
 
 ---
 
@@ -62,7 +62,7 @@ What to look for: cross-region adoption trajectories; divergence after ~2020.
 **File:** `03_Regional_Contribution_Pivot.png`  
 
 What to look for: absolute growth contribution by region; China is the largest contributor.  
-![Exhibit 3](03_Regional_Contribution_Pivot.png)
+![Exhibit 3](./outputs/03_Regional_Contribution_Pivot.png)
 
 ---
 
@@ -70,7 +70,7 @@ What to look for: absolute growth contribution by region; China is the largest c
 **File:** `04_Power_Type_Changes_Pivot.png`
 
 What to look for: BEV remains dominant while PHEV stays structurally meaningful; mix evolves as the market scales.  
-![Exhibit 4](./04_Power_Type_Changes_Pivot.png)
+![Exhibit 4](./outputs/04_Power_Type_Changes_Pivot.png)
 
 ---
 
@@ -78,7 +78,7 @@ What to look for: BEV remains dominant while PHEV stays structurally meaningful;
 **File:** `05_Stock_Sales_China_Pivot.png` 
 
 How to read: sales is annual flow; stock is cumulative. The level gap is expected; the insight is the **post-2020 steepening in stock** alongside larger annual volumes.  
-![Exhibit 5](05_Stock_Sales_China_Pivot.png)
+![Exhibit 5](./outputs/05_Stock_Sales_China_Pivot.png)
 
 ---
 
@@ -86,7 +86,7 @@ How to read: sales is annual flow; stock is cumulative. The level gap is expecte
 **File:** `06_Stock_Sales_Ratio_China_Pivot.png` 
 
 How to read: a normalization-friendly maturity proxy. A rising ratio supports “installed base compounding,” while peaks/normalization reflect rapid scaling and absorption of larger annual volumes.  
-![Exhibit 6](06_Stock_Sales_Ratio_China_Pivot.png)
+![Exhibit 6](./outputs/06_Stock_Sales_Ratio_China_Pivot.png)
 
 ---
 
@@ -94,7 +94,7 @@ How to read: a normalization-friendly maturity proxy. A rising ratio supports �
 **File:** ` 07_Acceleration_Inflection_China_Pivot.png` 
 
 How to read: YoY change (percentage points) isolates **acceleration** rather than the level. The annotated window highlights the most visible acceleration period.  
-![Exhibit 7](07_Acceleration_Inflection_China_Pivot.png)
+![Exhibit 7](./outputs/07_Acceleration_Inflection_China_Pivot.png)
 
 ---
 
